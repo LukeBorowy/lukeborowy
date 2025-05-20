@@ -11,7 +11,7 @@ Hi, I'm Luke Borowy! I've just completed my 3rd year of a degree in Computer Sci
   
 ## Soft Skills
 - Leadership: I have led group projects in school, and I was the lead programmer on my high school robotics team.
-- Commitment: Throughout my academic and personal lives, I have always applied myself to achieve excellence in what I do.
+- Commitment: Throughout my academic and personal lives, I have always pushed myself to achieve excellence in what I do.
 - Self-motivation: Most of my programming knowledge and skill come from personal learning that I have done throughout my life.
 
 ## Projects
@@ -23,7 +23,8 @@ Dungeon Party is an web-based game where you can play together with a group of f
 - Primary architect of game functionality and technology choice
 - Programmer of all 5 minigames
 #### Keywords
-TypeScript, WebDev, Node.JS, Games, Mobile, Socket.io, 
+TypeScript, WebDev, Node.JS, Games, Mobile, Socket.io 
+
 ### Meatstick Sales App
 ![Meatstick Sales](/assets/meatsticks.png)
 
@@ -31,6 +32,23 @@ Developed a Vue.js website to help a local Boy Scout troop conduct a months-long
 
 #### Keywords
 Vue.js, Node.js, PostgreSQL, JavaScript
+
+### FRC Robotics
+![Robotics](/assets/robot.jpg)
+I was on a high school robotics team for 4 years, and several other teams before that. I used Java to program the robot for real-time control, with my programming leading to an appearence in the MN State Championship 2 years in a row. I also used a Raspberry Pi to add computer vision capabilities to our robot.
+#### Team contributions
+- Lead programmer
+- Primary electrician
+- Assisted in robot design and construction
+#### Keywords
+Java, Robotics, Computer Vision
+
+### Stikk.io
+![Stikk.io](/assets/stikkio.png)
+
+Developed a web-based multiplayer game using JavaScript and a Node.js server. Used the HTML5 Canvas API to efficiently display players and shapes. Gained players throughout my school and later throughout all 50 states!
+#### Keywords
+Node.js, HTML5, WebDev, JavaScript
 
 ## Download my resume!
 [Resume.pdf](/assets/resume.pdf)

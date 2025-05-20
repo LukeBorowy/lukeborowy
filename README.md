@@ -1,5 +1,7 @@
 # About Me
-Hi, I'm Luke Borowy! I've just completed my 3rd year of a degree in Computer Science from the University of St. Thomas, in Minnesota. I have been programming since I was in elementary school, and I have a passion for coding and developing software of all kinds! 
+Hi, I'm Luke Borowy! I've just completed my 3rd year of a degree in Computer Science from the University of St. Thomas, in Minnesota. I enjoy playing board games, mountain biking, and reading good books.
+
+I have been programming since I was in elementary school, and I have a passion for coding and developing software of all kinds! 
 
 ## Technical Skills
 I have experience in several different programming languages, coming from career positions and personal projects. I know the following, roughly ordered from most to least knowledgeable:
@@ -25,7 +27,7 @@ I also know how to work with several popular frameworks:
 ### Dungeon Party
 ![Dungeon Party](/assets/dungeon_party.png)
 
-Dungeon Party is an web-based game where you can play together with a group of friends (up to 15 people), using mobile devices or a personal computer. Gameplay consists of 5 different minigames, which you complete with your team of 2-3 players as you try to win enough skill points to gain treasure in the overworld! A Typescript frontend used Socket.io to communicate with the backend Node.js server.
+Dungeon Party is a web-based game where you can play together with a group of friends (up to 15 people), using mobile devices or a personal computer. Gameplay consists of 5 different minigames, which you complete with your team of 2-3 players as you try to win enough skill points to gain treasure in the overworld! A Typescript frontend uses Socket.io to communicate with the backend Node.js server. PixiJs is used to display graphics efficiently.
 #### Contributions (worked with 2 other group members)
 - Primary architect of game functionality and technology choice
 - Programmer of all 5 minigames
@@ -35,7 +37,7 @@ Dungeon Party is an web-based game where you can play together with a group of f
 ### Meatstick Sales App
 ![Meatstick Sales](/assets/meatsticks.png)
 
-Developed a Vue.js website to help a local Boy Scout troop conduct a months-long fundraising event. The system includes integration with 3 different payment options, as well as a admin dashboard for use when making reports and managing the sales. I used Node.js with a PostgreSQL database to store inventory and sale records. 
+Developed a Vue.js website to help a local Boy Scout troop conduct a months-long fundraising event. The system includes a mobile-focused flow for making sales along with integration with 3 different payment options. It also include an admin dashboard for leaders to use when making reports, transferring inventory, and managing the sales. I used Node.js with a PostgreSQL database to store inventory and sale records. 
 
 #### Keywords: Vue.js, Node.js, PostgreSQL, JavaScript
 

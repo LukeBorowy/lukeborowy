@@ -1,20 +1,27 @@
 # About Me
-Hi, I'm Luke Borowy! I've just completed my 3rd year of a degree in Computer Science from The University of St. Thomas. I have been programming since I was in elementary school, and I have a passion for coding and developing software of all kinds! 
+Hi, I'm Luke Borowy! I've just completed my 3rd year of a degree in Computer Science from the University of St. Thomas, in Minnesota. I have been programming since I was in elementary school, and I have a passion for coding and developing software of all kinds! 
 
 ## Technical Skills
+I have experience in several different programming languages, coming from career positions and personal projects. I know the following, roughly ordered from most to least knowledgeable:
 - Python
 - Java
-- C++
 - JavaScript
 - TypeScript
+- C++, C
+- SQL
 - C#
-  
+
+I also know how to work with several popular frameworks:
+- Vue.js: From creating a sale tracking application (see below)
+- Angular.js: From job experiencing working on a internal application
+- .NET: From job experience working on expanding an API
+
 ## Soft Skills
 - Leadership: I have led group projects in school, and I was the lead programmer on my high school robotics team.
 - Commitment: Throughout my academic and personal lives, I have always pushed myself to achieve excellence in what I do.
 - Self-motivation: Most of my programming knowledge and skill come from personal learning that I have done throughout my life.
 
-## Projects
+## Notable Projects
 ### Dungeon Party
 ![Dungeon Party](/assets/dungeon_party.png)
 
@@ -22,16 +29,15 @@ Dungeon Party is an web-based game where you can play together with a group of f
 #### Contributions (worked with 2 other group members)
 - Primary architect of game functionality and technology choice
 - Programmer of all 5 minigames
-#### Keywords
-TypeScript, WebDev, Node.JS, Games, Mobile, Socket.io 
+
+#### Keywords: TypeScript, Web Development, Node.JS, Games, Mobile, Socket.io 
 
 ### Meatstick Sales App
 ![Meatstick Sales](/assets/meatsticks.png)
 
 Developed a Vue.js website to help a local Boy Scout troop conduct a months-long fundraising event. The system includes integration with 3 different payment options, as well as a admin dashboard for use when making reports and managing the sales. I used Node.js with a PostgreSQL database to store inventory and sale records. 
 
-#### Keywords
-Vue.js, Node.js, PostgreSQL, JavaScript
+#### Keywords: Vue.js, Node.js, PostgreSQL, JavaScript
 
 ### FRC Robotics
 ![Robotics](/assets/robot.jpg)
@@ -40,15 +46,14 @@ I was on a high school robotics team for 4 years, and several other teams before
 - Lead programmer
 - Primary electrician
 - Assisted in robot design and construction
-#### Keywords
-Java, Robotics, Computer Vision
+
+#### Keywords: Java, Robotics, Computer Vision
 
 ### Stikk.io
 ![Stikk.io](/assets/stikkio.png)
 
 Developed a web-based multiplayer game using JavaScript and a Node.js server. Used the HTML5 Canvas API to efficiently display players and shapes. Gained players throughout my school and later throughout all 50 states!
-#### Keywords
-Node.js, HTML5, WebDev, JavaScript
+#### Keywords: Node.js, HTML5, Web Development, JavaScript
 
 ## Download my resume!
 [Resume.pdf](/assets/resume.pdf)

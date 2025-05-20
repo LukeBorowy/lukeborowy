@@ -37,7 +37,7 @@ Dungeon Party is a web-based game where you can play together with a group of fr
 ### Meatstick Sales App
 ![Meatstick Sales](/assets/meatsticks.png)
 
-Developed a Vue.js website to help a local Boy Scout troop conduct a months-long fundraising event. The system includes a mobile-focused flow for making sales along with integration with 3 different payment options. It also include an admin dashboard for leaders to use when making reports, transferring inventory, and managing the sales. I used Node.js with a PostgreSQL database to store inventory and sale records. 
+I developed a Vue.js website to help a local Boy Scout troop conduct a months-long fundraising event. The system includes a mobile-focused flow for making sales along with integration with 3 different payment options. It also include an admin dashboard for leaders to use when making reports, transferring inventory, and managing the sales. I used Node.js with a PostgreSQL database to store inventory and sale records. 
 
 #### Keywords: Vue.js, Node.js, PostgreSQL, JavaScript
 
@@ -54,7 +54,7 @@ I was on a high school robotics team for 4 years, and several other teams before
 ### Stikk.io
 ![Stikk.io](/assets/stikkio.png)
 
-Developed a web-based multiplayer game using JavaScript and a Node.js server. Used the HTML5 Canvas API to efficiently display players and shapes. Gained players throughout my school and later throughout all 50 states!
+I developed a web-based multiplayer game using JavaScript and a Node.js server. I used the HTML5 Canvas API to efficiently display players and shapes. I gained players throughout my school and later throughout all 50 states!
 #### Keywords: Node.js, HTML5, Web Development, JavaScript
 
 ## Download my resume!

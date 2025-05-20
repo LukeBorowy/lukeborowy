@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me
+Hi, I'm Luke Borowy! I've just completed by 3rd year of a degree in Computer Science from The University of St. Thomas. I have been programming since I was 10 years old, and I have a passion for coding and developing software of all kinds! 
 
-<!--
-**LukeBorowy/lukeborowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Skills
+- Python
+- Java
+- C++
+- JavaScript
+- TypeScript
+- C#
+  
+# Soft Skills
+- Leadership: 
+- Communication:
+- Commitment: Throughout my 
+## Projects
+### Dungeon Party
+![Dungeon Party](/assets/img/dungeon_party.png)
+Developed a capstone project along with two other group members from scratch. Dungeon Party is an web-based game where you can play together with a group of friends (up to 15 people), using mobile devices or a personal computer. Gameplay consists of 5 different minigames, which you complete with your team of 2-3 players as you try to win enough skill points to gain treasure in the overworld!
+Contributions
+- Primary architect of game functionality and technology choice
+- Programmer of all 5 minigames
